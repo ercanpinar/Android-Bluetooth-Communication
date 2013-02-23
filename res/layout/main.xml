@@ -26,7 +26,7 @@
             android:id="@+id/btnSend"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Enviar" >
+            android:text="Gönder" >
         </Button>
     </LinearLayout>
 
@@ -41,7 +41,7 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Servidor" >
+            android:text="Server" >
         </Button>
 
         <Button
@@ -49,7 +49,7 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Cliente" >
+            android:text="Client" >
         </Button>
     </LinearLayout>
 
